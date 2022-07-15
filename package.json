@@ -1,0 +1,20 @@
+{
+  "name": "first-docker-application",
+  "version": "1.0.0",
+  "description": "my first Docker application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avatrezaei/first-Docker-application.git"
+  },
+  "keywords": [],
+  "author": "avatrezaei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avatrezaei/first-Docker-application/issues"
+  },
+  "homepage": "https://github.com/avatrezaei/first-Docker-application#readme"
+}
